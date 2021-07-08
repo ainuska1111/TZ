@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyTZ</string>
+    <string name="address">225  Central  Park  West, NY 10024, USA</string>
+    <string name="delivery">Delivery</string>
+    <string name="Pickup">Pickup</string>
+    <string name="Catering">Catering</string>
+    <string name="Curbside">Curbside</string>
+    <string name="search">Find store by name</string>
+    <string name="Takeaway">Takeaway</string>
+    <string name="Grocery">Grocery</string>
+    <string name="Convenience">Convenience</string>
+    <string name="Pharmacy">Pharmacy</string>
+    <string name="stores">58 stores Open</string>
+    <string name="name">Burger Craze</string>
+    <string name="Open">Open</string>
+    <string name="favorite">4.6</string>
+    <string name="am">American</string>
+    <string name="Bur">Burgers</string>
+    <string name="del">Delivery:</string>
+    <string name="FREE">FREE</string>
+    <string name="mini">Minimum:</string>
+    <string name="minPrice">$10</string>
+    <string name="min">15 -20 min</string>
+    <string name="km">1.5 km away</string>
+    <string name="sale">Spend 25$, save $5</string>
+    <string name="Menu">Menu</string>
+    <string name="_601">(601)</string>
+    <string name="around">around</string>
+    <string name="moreInfo">More info</string>
+    <string name="_30m">30 minutes</string>
+    <string name="burgers">Burgers</string>
+    <string name="hDog">Hog dog</string>
+    <string name="Sides">Sides</string>
+    <string name="mMenu">Main menu</string>
+    <string name="Desserts">Desserts</string>
+    <string name="bg">beverage</string>
+    <string name="checkout">Ready to Checkout</string>
+    <string name="price_end">$20.49</string>
+    <string name="Beef">Beef Burger</string>
+    <string name="cheese">Cheese Burger</string>
+    <string name="Sold">Sold out</string>
+    <string name="Special">Special</string>
+    <string name="Cheddar">Cheddar cheese, guacamole, pico de Gallo and chipotle mayo</string>
+    <string name="price">$ 9.25</string>
+
+
+</resources>
